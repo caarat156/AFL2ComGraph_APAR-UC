@@ -3,3 +3,6 @@ geopandas
 shapely
 matplotlib
 pandas
+numpy
+pillow
+networkx
