@@ -316,44 +316,6 @@
       "properties": {
         "floor": "LT_1",
         "type": "room",
-        "id": "LT_1-ENT",
-        "code": "ENT",
-        "name": "Entrance",
-        "area_m2": 203.9
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              975.0,
-              318.0
-            ],
-            [
-              975.0,
-              466.0
-            ],
-            [
-              665.0,
-              466.0
-            ],
-            [
-              665.0,
-              318.0
-            ],
-            [
-              975.0,
-              318.0
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "floor": "LT_1",
-        "type": "room",
         "id": "LT_1-114",
         "code": "114",
         "name": "Kelas (tanpa nomor)",
@@ -771,48 +733,6 @@
               1255.0,
               360.0
             ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "floor": "LT_1",
-        "type": "corridor",
-        "id": "LT_1-corridor-1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            80.0,
-            342.0
-          ],
-          [
-            1540.0,
-            342.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "floor": "LT_1",
-        "type": "corridor",
-        "id": "LT_1-corridor-2"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            960.0,
-            342.0
-          ],
-          [
-            960.0,
-            450.0
           ]
         ]
       }
